@@ -1,7 +1,7 @@
 # Group Project Proposal <br> INFO 3305 WEB APPLICATION DEVELOPMENT <br>Section 2<br>2022/2023</br> 
 
 ## Group Members
-1. Awfa binti Azlin
+1. Awfa binti Azlin (2026420)
 2. Nur Amanina binti Mohd Nubli (2011402)
 3. Nur Athirah binti Zaaba (2011156)
 4. Nurul Izzaty binti Muhammad Aris (2022876)

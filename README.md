@@ -18,7 +18,8 @@ This project's goal is to examine each person's preferred learning method and gi
 
 ## Features and Functionalities 
 * Homepage 
-* Notes
+* Notes - Notes page allows users to organize everything including to-do list,  summary of subjects, revisions, lecture notes and all other types of information with no messy folders. Users can navigate through the page to view, add, edit and delete notes by clicking the buttons. 
+
 * Flashcard - This modul enable the user to get interactive with flashcard study method. By using this app, the user can perform CRUD operation on this app such as Create, Read, Update and Delete the Flashcard titles, description and the flashcards itself.  
 
 * Schedule 
@@ -46,3 +47,4 @@ This project's goal is to examine each person's preferred learning method and gi
 
 ## References 
 <https://www.markdownguide.org/basic-syntax/> 
+<https://www.visual-paradigm.com/guide/data-modeling/what-is-entity-relationship-diagram/>

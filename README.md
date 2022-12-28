@@ -35,6 +35,7 @@ This project's goal is to examine each person's preferred learning method and gi
 **Flashcard**
 
 **Schedule**
+
 ![Schedule Sequence Diagram](https://user-images.githubusercontent.com/103989049/209851190-afb7ddbd-5b0e-4579-84d0-20155d13abe2.jpg)
 
 **Study Tracker**

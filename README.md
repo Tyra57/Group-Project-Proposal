@@ -8,7 +8,7 @@
 5. Wan Maizatul Akma binti Wan Ahmad Sayuti (2014260)
 
 ## Title 
-### Study Blablabla
+### StudyZone
 
 ## Introduction 
 We propose to develop a study planner for university students who have trouble managing their time. In order to help students simply keep track of their homework or deadlines, we are working on projects for them that will incorporate notes, flashcards, and class information. Study trackers were also added so that students could focus entirely on the assignments they wished to complete rather than getting distracted by other tasks.

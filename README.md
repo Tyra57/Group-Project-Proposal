@@ -33,16 +33,16 @@ This project's goal is to examine each person's preferred learning method and gi
 **LoginPage and HomePage**
 ![login_sequencediagram](https://user-images.githubusercontent.com/121510950/209852533-1d978763-9c2d-4e80-9de4-b12f368b1b91.jpeg)
 
-**Notes**
+**Notes Page**
 ![SD NOTES](https://user-images.githubusercontent.com/96872015/209850991-2b2c595c-cad7-4472-96b2-b17da3d254a6.png)
 **Flashcard**
 ![flashcard_sequenceDiagram](https://user-images.githubusercontent.com/121510950/209852546-9b969d80-1e00-4601-a2dd-29fc86312252.jpg)
 
-**Schedule**
+**Schedule Page**
 
 ![Schedule Sequence Diagram](https://user-images.githubusercontent.com/103989049/209851190-afb7ddbd-5b0e-4579-84d0-20155d13abe2.jpg)
 
-**Study Tracker**
+**Study Tracker Page**
 ![SD tracker](https://user-images.githubusercontent.com/83502646/209851890-adb7e196-f8c5-4b0a-9f4f-e418f8f14cdc.jpeg)
 
 ## References 

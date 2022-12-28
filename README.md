@@ -19,7 +19,8 @@ This project's goal is to examine each person's preferred learning method and gi
 ## Features and Functionalities 
 * Homepage 
 * Notes
-* Flashcard
+* Flashcard - This modul enable the user to get interactive with flashcard study method. By using this app, the user can perform CRUD operation on this app such as Create, Read, Update and Delete the Flashcard titles, description and the flashcards itself.  
+
 * Schedule 
 * Study Tracker - Must be more aware of how much time spend on each course or activity inside the course.
 
@@ -28,11 +29,13 @@ This project's goal is to examine each person's preferred learning method and gi
 
 ## Sequence Diagram 
 
-**Homepage**
+**LoginPage and HomePage**
+![login_sequencediagram](https://user-images.githubusercontent.com/121510950/209852533-1d978763-9c2d-4e80-9de4-b12f368b1b91.jpeg)
 
 **Notes**
 ![SD NOTES](https://user-images.githubusercontent.com/96872015/209850991-2b2c595c-cad7-4472-96b2-b17da3d254a6.png)
 **Flashcard**
+![flashcard_sequenceDiagram](https://user-images.githubusercontent.com/121510950/209852546-9b969d80-1e00-4601-a2dd-29fc86312252.jpg)
 
 **Schedule**
 

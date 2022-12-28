@@ -27,7 +27,9 @@ This project's goal is to examine each person's preferred learning method and gi
 ![ERD   Sequence](https://user-images.githubusercontent.com/121510950/209847871-eccb4637-4a21-4484-8693-debf889963c7.jpeg)
 
 ## Sequence Diagram 
-<p>Notes</p> 
+Sequence Diagram Study Tacker
+![SD tracker](https://user-images.githubusercontent.com/83502646/209850711-6ed62bf0-841e-456f-8933-d26c9db77b13.jpeg)
+
 
 ## References 
 <https://www.markdownguide.org/basic-syntax/> 

@@ -47,5 +47,5 @@ This project's goal is to examine each person's preferred learning method and gi
 ![SD tracker](https://user-images.githubusercontent.com/83502646/209851890-adb7e196-f8c5-4b0a-9f4f-e418f8f14cdc.jpeg)
 
 ## References 
-<https://www.markdownguide.org/basic-syntax/> 
-<https://www.visual-paradigm.com/guide/data-modeling/what-is-entity-relationship-diagram/>
+* <https://www.markdownguide.org/basic-syntax/> 
+* <https://www.visual-paradigm.com/guide/data-modeling/what-is-entity-relationship-diagram/>

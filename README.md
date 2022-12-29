@@ -23,8 +23,9 @@ This project's goal is to examine each person's preferred learning method and gi
 
 * Flashcard - This modul enable the user to get interactive with flashcard study method. By using this app, the user can perform CRUD operation on this app such as Create, Read, Update and Delete the Flashcard titles, description and the flashcards itself.  
 
-* Schedule - Users can create and customize their own timetable with the classes and preferred study time.
-* Study Tracker - Must be more aware of how much time spend on each course or activity inside the course.
+* Schedule - In schedule, users can input  class information such as course code, subject, lecturer and time. They also can customize their own preferred study time apart from class hours. From there, it will showcase an overview of the week to keep users in check.
+ 
+* Study Tracker - Users may get a graphic breakdown of  study hours using a timer. Users will quickly gain a better picture of how much time devote to each course or activity within the course if they keep track of study hours.
 
 ## Entity Relationship Diagram 
 ![ERD   Sequence](https://user-images.githubusercontent.com/121550893/209890354-0ccaa1bb-ba00-4a0d-a80c-0bb43c0fa59e.png)

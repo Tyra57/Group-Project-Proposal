@@ -17,7 +17,8 @@ We propose to develop a study planner for university students who have trouble m
 This project's goal is to examine each person's preferred learning method and give an analysis on how much time the student can concentrate. Alternatively, to evaluate students' dedication. Make sure to block off time on the student calendar for all of their classes, obligations at work, and extracurricular activities. Additionally, students should schedule study time for each topic. It is to estimate how much time students will need to dedicate to each subject they wish to study. Furthermore, a student planner is used to create a schedule allowing them to choose which days they have available for study. Moreover, students can plan their study time according to their preferred methods of learning.
 
 ## Features and Functionalities 
-* Homepage 
+* Homepage - Homepage welcomes user to the website after loging in and registrating process done.It also attract user to other pages; notes page, flashcard page, schedule page and study tracker page via hyperlinks.
+
 * Notes - Notes page allows users to organize everything including to-do list,  summary of subjects, revisions, lecture notes and all other types of information with no messy folders. Users can navigate through the page to view, add, edit and delete notes by clicking the buttons. 
 
 * Flashcard - This modul enable the user to get interactive with flashcard study method. By using this app, the user can perform CRUD operation on this app such as Create, Read, Update and Delete the Flashcard titles, description and the flashcards itself.  

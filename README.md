@@ -32,7 +32,7 @@ This project's goal is to examine each person's preferred learning method and gi
 ## Sequence Diagram 
 
 * **LoginPage and HomePage**
-![login_sequencediagram](https://user-images.githubusercontent.com/121510950/209852533-1d978763-9c2d-4e80-9de4-b12f368b1b91.jpeg)
+![Untitled Diagram-Page-3 drawio](https://user-images.githubusercontent.com/121550893/209890956-358607f3-b0f1-4179-a711-b06121b77a94.png)
 
 * **Notes Page**
 ![SD NOTES](https://user-images.githubusercontent.com/96872015/209850991-2b2c595c-cad7-4472-96b2-b17da3d254a6.png)

@@ -27,7 +27,7 @@ This project's goal is to examine each person's preferred learning method and gi
 * Study Tracker - Must be more aware of how much time spend on each course or activity inside the course.
 
 ## Entity Relationship Diagram 
-![ERD   Sequence](https://user-images.githubusercontent.com/121510950/209847871-eccb4637-4a21-4484-8693-debf889963c7.jpeg)
+![ERD   Sequence](https://user-images.githubusercontent.com/121550893/209890279-04929068-408e-4cfa-b190-fa3597177803.png)
 
 ## Sequence Diagram 
 

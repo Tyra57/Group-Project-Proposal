@@ -23,7 +23,7 @@ This project's goal is to examine each person's preferred learning method and gi
 
 * Flashcard - This modul enable the user to get interactive with flashcard study method. By using this app, the user can perform CRUD operation on this app such as Create, Read, Update and Delete the Flashcard titles, description and the flashcards itself.  
 
-* Schedule 
+* Schedule - User can customize their own class timetable.
 * Study Tracker - Must be more aware of how much time spend on each course or activity inside the course.
 
 ## Entity Relationship Diagram 

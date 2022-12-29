@@ -28,7 +28,7 @@ This project's goal is to examine each person's preferred learning method and gi
 * Study Tracker - Users may get a graphic breakdown of  study hours using a timer. Users will quickly gain a better picture of how much time devote to each course or activity within the course if they keep track of study hours.
 
 ## Entity Relationship Diagram 
-![ERD   Sequence](https://user-images.githubusercontent.com/121550893/209890354-0ccaa1bb-ba00-4a0d-a80c-0bb43c0fa59e.png)
+![ERD](https://user-images.githubusercontent.com/96872015/209893118-90356584-f260-4044-b7b9-0fb986e744ba.png)
 
 ## Sequence Diagram 
 

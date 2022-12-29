@@ -45,7 +45,7 @@ This project's goal is to examine each person's preferred learning method and gi
 ![Schedule Sequence Diagram](https://user-images.githubusercontent.com/103989049/209851190-afb7ddbd-5b0e-4579-84d0-20155d13abe2.jpg)
 
 * **Study Tracker Page**
-![SD tracker](https://user-images.githubusercontent.com/83502646/209851890-adb7e196-f8c5-4b0a-9f4f-e418f8f14cdc.jpeg)
+![SD tracker](https://user-images.githubusercontent.com/96872015/209892982-c94496c4-bfdd-4de9-8ad1-199965a02fa0.png)
 
 ## References 
 * <https://www.markdownguide.org/basic-syntax/> 

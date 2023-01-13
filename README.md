@@ -5,7 +5,7 @@
 2. Nur Amanina binti Mohd Nubli (2011402)
 3. Nur Athirah binti Zaaba (2011156)
 4. Nurul Izzaty binti Muhammad Aris (2022876)
-5. Wan Maizatul Akma binti Wan Ahmad Sayuti (2014260)
+5. Wan Maizatul Akmal binti Wan Ahmad Sayuti (2014260)
 
 ## Title 
 ### StudyZone
